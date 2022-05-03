@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Dynamic HID config</source>
-        <translation type="vanished">Динамический HID</translation>
+        <translation type="vanished">Динамический1 HID</translation>
     </message>
     <message>
         <source>Firmware flasher</source>
